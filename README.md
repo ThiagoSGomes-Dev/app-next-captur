@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=HVyct9EUNP8&t=1307s Video pausado em 53:08
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
